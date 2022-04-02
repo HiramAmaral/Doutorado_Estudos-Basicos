@@ -25,8 +25,8 @@ float ERDR = A3;
 float ERST = A4;
 
 int timereset=10;  // tempo reset
-int timeexpo=60;// tempo de exposição
-float outg = A1;  // sinal na saída do pixel
+int timeexpo=600;// tempo de exposição
+float outg = A0;  // sinal na saída do pixel
 float s1;         // leitura no reset
 float s2;         // leitura após exposição
 float vph;        // tensão fotogerada (CDS)
@@ -56,9 +56,9 @@ vph_ac = 0;
 n=1;
 while (count <= cmax) {
 //reset
-digitalWrite(8,1);
+digitalWrite(8,0);
 digitalWrite(9,0);
-digitalWrite(10,1);
+digitalWrite(10,0);
 delayMicroseconds(timereset);
 s1 = analogRead(outg);
 //exposição
@@ -136,13 +136,13 @@ digitalWrite(7,0);
 digitalWrite(6,0);
 digitalWrite(5,1);
 Serial.println();
-//Serial.print("Máximo = ");
+//Serial.print("Máximo - ");
 //lermax();
 Serial.println();
-Serial.print("Médio = ");
+Serial.print("Médio - ");
 lerpixel();
 //Serial.println();
-//Serial.print("Mínimo = ");
+//Serial.print("Mínimo - ");
 //lermin();
 }
 
@@ -180,3 +180,6 @@ delay(15000);
 m++; 
 }
 }
+
+
+

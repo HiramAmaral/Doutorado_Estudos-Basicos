@@ -20,8 +20,8 @@ float e_rst;
 float VDD = A2;
 float ERDR = A3;
 float ERST = A4;
-int timereset=100; // tempo reset
-int timeexpo=1000; // tempo de exposição
+int timereset=10; // tempo reset
+int timeexpo=500; // tempo de exposição
 float outg = A0;  // sinal na saída do pixel
 float s1;         // leitura no reset
 float s2;         // leitura após exposição
@@ -413,3 +413,6 @@ mediaRDR();
 m++; 
 }
 }
+
+
+
