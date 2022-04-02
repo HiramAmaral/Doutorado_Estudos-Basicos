@@ -1,0 +1,5 @@
+VIDEOS VISUALIZADOS PARA PLACA
+
+Como criar uma PCI utilizando o PROTEUS ( ARES ) - FALTOU ENTENDER A PARTE DA MALHA DE ATERRAMENTO
+
+Arduino to 16*2 LCD Display Proteus - Arduino Proteus Simulation tutorial # 5

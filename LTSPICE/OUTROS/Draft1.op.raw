@@ -1,0 +1,19 @@
+Title: * C:\Users\WARITON\Documents\Wariton\ARQUIVOS MESTRADO\Draft1.asc
+Date: Mon Aug 17 15:08:14 2020
+Plotname: Operating Point
+Flags: real
+No. Variables: 8
+No. Points:            1
+Offset:   0.0000000000000000e+000
+Command: Linear Technology Corporation LTspice IV
+Variables:
+	0	V(vo)	voltage
+	1	V(vdd)	voltage
+	2	V(n001)	voltage
+	3	I(R4)	device_current
+	4	I(R3)	device_current
+	5	I(R2)	device_current
+	6	I(R1)	device_current
+	7	I(V1)	device_current
+Binary:
+~RíÓñ˜é?33S@ÇL?Ú­¹Ú­9Ú­¹Ú­¹Ú-º

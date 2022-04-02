@@ -1,0 +1,29 @@
+Stray ".ends" card: .ends
+Circuit: * C:\Users\WARITON\Documents\Wariton\ARQUIVOS MESTRADO\LIN LOG 2014 completo2 rdr mod.asc
+
+Warning: LTspice supports BSIM3 version 3.3.0. Your model specified an unrecognized version: 3.11
+Warning: Pd = 0 is less than W.
+Warning: Ps = 0 is less than W.
+Warning: LTspice supports BSIM3 version 3.3.0. Your model specified an unrecognized version: 3.11
+Warning: Pd = 0 is less than W.
+Warning: Ps = 0 is less than W.
+Direct Newton iteration for .op point succeeded.
+
+Date: Tue Aug 18 17:32:00 2020
+Total elapsed time: 0.264 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 4148
+traniter = 4131
+tranpoints = 1755
+accept = 1576
+rejected = 179
+matrix size = 22
+fillins = 0
+solver = Normal
+Matrix Compiler1: 1,09 KB object code size  0.4/0.2/[0.2]
+Matrix Compiler2: 1,87 KB object code size  0.3/0.3/[0.3]
+
+

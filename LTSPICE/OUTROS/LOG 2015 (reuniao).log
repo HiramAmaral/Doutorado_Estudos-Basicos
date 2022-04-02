@@ -1,0 +1,48 @@
+Circuit: * C:\Users\WARITON\Documents\Wariton\ARQUIVOS MESTRADO\LOG 2015 (reuniao).asc
+
+WARNING: Less than two connections to node RSTX.  This node is used by V3.
+Direct Newton iteration for .op point succeeded.
+.step run=1
+.step run=2
+.step run=3
+.step run=4
+.step run=5
+.step run=6
+.step run=7
+.step run=8
+.step run=9
+.step run=10
+
+
+Measurement: result_out
+  step	v(n001)	at
+     1	1.46811	0.0304
+     2	1.43022	0.0304
+     3	1.41649	0.0304
+     4	1.40408	0.0304
+     5	1.43652	0.0304
+     6	1.42859	0.0304
+     7	1.42162	0.0304
+     8	1.41062	0.0304
+     9	1.43771	0.0304
+    10	1.43615	0.0304
+
+
+Date: Wed Jul 08 07:55:22 2020
+Total elapsed time: 15.949 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 57446
+traniter = 57429
+tranpoints = 28615
+accept = 24402
+rejected = 4213
+matrix size = 11
+fillins = 0
+solver = Normal
+Matrix Compiler1: 360 bytes object code size  0.3/0.2/[0.2]
+Matrix Compiler2: 753 bytes object code size  0.2/0.5/[0.2]
+
+
