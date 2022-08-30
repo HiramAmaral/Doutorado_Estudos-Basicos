@@ -1,2 +1,2 @@
 # Doutorado_Estudos Basicos
- Repositorio para armazenar estudos básicos de meu doutoramento.
+ Repositório para armazenar estudos básicos de meu doutoramento.
